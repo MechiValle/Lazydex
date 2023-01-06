@@ -1,7 +1,6 @@
 
-# Pokedex App
+# Lazydex App
 
-https://mechidex.netlify.app/
 
 
 
